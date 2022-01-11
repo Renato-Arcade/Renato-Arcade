@@ -5,7 +5,7 @@
 #
 
 • 🚀 Oie, prazer, me chamo Renato<br><br>
-• 🏡 MS - Campo Grande<br><br>
+• 🏡 MS - Fátima do Sul<br><br>
 • 📌 FiveM Back-End Developer<br><br>
 • 💖 Arcade-Shop: https://discord.gg/k52z2kZPFX<br><br>
 • 📞 Contato: Renato#0069<br><br>
