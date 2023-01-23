@@ -6,20 +6,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renato-Arcade&bg_color=0d1117&color=6733FF&line=6733FF&point=7733FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-I'm a self-taught passionate BackEnd developer from Brazil
-
-**About me**
-
-- 💼 BackEnd and CEO at [Arcade](https://discord.gg/jw5rRq9qSB)
-
-- ❤️ I love writing Lua, and building fun experiments on FiveM
-
-
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renato-Arcade&show_icons=true&count_private=true&hide_border=true&title_color=7733FF&icon_color=7733FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Arcade&layout=compact&hide_border=true&title_color=7733FF&text_color=7733FF&bg_color=0d1117" /><br><br>
-
-    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img height="195px" src="https://cdn.discordapp.com/attachments/1013570204061679758/1067020998945275924/Ativo_14x.png"</a>
+    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img height="195px" src="https://nuckturp.com.br/wp-content/uploads/2021/04/Discord-logo-PNG-fundo-transparente.png"</a>
 </div>
 
 <div align="center">
