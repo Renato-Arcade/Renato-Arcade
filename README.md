@@ -1,6 +1,6 @@
 | Lua  | HTML5 | CSS3  | JavaScript | NodeJs |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="https://www.cursou.com.br/wp-content/uploads/2021/09/Curso-de-API-Node.js-com-Typescript.png" width="70vw" height="70vh">
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="[https://www.cursou.com.br/wp-content/uploads/2021/09/Curso-de-API-Node.js-com-Typescript.png](https://hazelcast.com/wp-content/uploads/2021/12/node2.png)" width="70vw" height="70vh">
 
 #
 
