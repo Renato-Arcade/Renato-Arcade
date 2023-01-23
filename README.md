@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Renato." /></p>
+<p align="center"> width="80%" alt="Hello, I'm Renato." /></p>
 
 <br />
 
