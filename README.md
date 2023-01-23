@@ -15,7 +15,7 @@ I'm a self-taught passionate BackEnd developer from Brazil
 
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renato-Arcade&show_icons=true&count_private=true&hide_border=true&title_color=7733FF&icon_color=7733FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Arcade&layout=compact&hide_border=true&title_color=7733FF&text_color=7733FF&bg_color=0d1117" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Arcade&layout=compact&hide_border=true&title_color=7733FF&text_color=7733FF&bg_color=0d1117" /><br><br>
     <code><img height="20" alt="lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png"></code> 
     <code><img height="20" alt="mysql" src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png"></code>   
 </div>
