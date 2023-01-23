@@ -2,22 +2,18 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate BackEnd developer from Brazil
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 BackEnd and CEO at [Arcade](https://discord.gg/jw5rRq9qSB)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- ❤️ I love writing Lua, and building fun experiments on FiveM
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png"></code>
+<code><img height="20" alt="html5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
+<code><img height="20" alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
