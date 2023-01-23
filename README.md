@@ -1,5 +1,5 @@
-## 👋﹕Renato
-## 👀﹕Junior BackEnd Developer
+ 👋﹕Renato
+ 👀﹕Junior BackEnd Developer
 
 ##
 
