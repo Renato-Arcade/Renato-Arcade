@@ -1,5 +1,6 @@
- 👋﹕Renato<br><br>
- 👀﹕Junior BackEnd Developer
+ 👋 • Renato<br>
+ 👀 • Desnevolvedor BackEnd Junior<br>
+ 🎮 • Apaixonado por Desenvolvimento de jogos<br>
 
 ##
 
