@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Renato." src="https://github.com/anuraghazra/anuraghazra/tree/master/assets/gh-readme-header.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Renato." /></p>
 
 <br />
 
