@@ -1,10 +1,6 @@
-| Lua  | HTML5 | CSS3  | JavaScript | NodeJs | Svelte |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="70vw" height="70vh"> | <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="70vw" height="70vh"> | <img src="https://cdn.345tool.com/public/logos/css-formatter-logo.png" width="70vw" height="70vh"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="70vw" height="70vh"> | <img src="https://hazelcast.com/wp-content/uploads/2021/12/node2.png" width="70vw" height="70vh"> | <img src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4" width="70vw" height="70vh"> | <img src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4" width="70vw" height="70vh">
-
-#
-
-• 🚀 Oie, prazer, me chamo Renato<br><br>
-• 📌 Junior Backend Developer<br><br>
-• 💖 [Arcade](https://discord.gg/jw5rRq9qSB)<br><br>
-• 📞 Contato: Renato#0069<br><br>
+<div style="display: inline_block"><br>
+	<img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renato-Svelte" height="30" width="40" src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4">
+</div>
