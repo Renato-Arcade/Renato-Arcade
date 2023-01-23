@@ -5,6 +5,6 @@
 #
 
 • 🚀 Oie, prazer, me chamo Renato<br><br>
-• 📌 FiveM Back-End Developer<br><br>
+• 📌 Junior Backend Developer<br><br>
 • 💖 [Arcade](https://discord.gg/jw5rRq9qSB)<br><br>
 • 📞 Contato: Renato#0069<br><br>
