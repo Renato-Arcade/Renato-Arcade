@@ -1,4 +1,4 @@
-<p align="center"> Hello, I'm Renato. /></p>
+<p align="center">Hello, I'm Renato.</p>
 
 <br />
 
