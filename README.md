@@ -33,6 +33,7 @@ I'm a self-taught passionate BackEnd developer from Brazil
         <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renato-Arcade}/count.svg" /></p> 
         <br>
     </div>
+    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img src="https://cdn.discordapp.com/attachments/1013570204061679758/1067020998945275924/Ativo_14x.png"</a>
 </div>
 
 
