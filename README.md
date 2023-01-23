@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7733FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Renato;I'm+19+years+old;I'm+from+Brazil;I+Love+writing+Development;Lua+and+building+fun+experiments+on+FiveM+:%29)](https://git.io/typing-svg)
 
-<p align="center" color=7733FF>Welcome!.</p>
+<p align="center" color=#7733FF>Welcome!</p>
 
 <br />
 
