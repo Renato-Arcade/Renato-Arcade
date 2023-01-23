@@ -9,12 +9,6 @@
     <br>
 </div>
 
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renato-Arcade&show_icons=true&count_private=true&hide_border=true&title_color=7733FF&icon_color=7733FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Arcade&layout=compact&hide_border=true&title_color=7733FF&text_color=7733FF&bg_color=0d1117" /><br><br>
-    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img height="195px" src="https://nuckturp.com.br/wp-content/uploads/2021/04/Discord-logo-PNG-fundo-transparente.png"</a>
-</div>
-
 <div align="center">
     <b>Main skills:<b><br><br>
     <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -24,7 +18,16 @@
     <b>Studying in this moment:<b><br><br>
 <code><img height="40" alt="svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png"></code>
     <code><img height="40" alt="html5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
+</div>
+        
+<div align="center">
     <code><img height="40" alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"></code>
+</div>
+
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Renato-Arcade&show_icons=true&count_private=true&hide_border=true&title_color=7733FF&icon_color=7733FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Arcade&layout=compact&hide_border=true&title_color=7733FF&text_color=7733FF&bg_color=0d1117" /><br><br>
+    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img height="195px" src="https://nuckturp.com.br/wp-content/uploads/2021/04/Discord-logo-PNG-fundo-transparente.png"</a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renato-Arcade&bg_color=0d1117&color=6733FF&line=6733FF&point=7733FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
