@@ -27,7 +27,7 @@
 </div>
         
 <div align="center">  
-    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img height="195px" src="https://sernotavel.com.br/wp-content/uploads/2021/12/image-23.png"</a>
+    <a href="https://discord.gg/jw5rRq9qSB" target="_blank"><img height="195px" src="https://nuckturp.com.br/wp-content/uploads/2021/04/Discord-logo-PNG-fundo-transparente.png"</a>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renato-Arcade&bg_color=0d1117&color=6733FF&line=6733FF&point=7733FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
