@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato+Garcia;I'm+19+years+old;I'm+from+Brazil;I+Love+writing+Development;Lua+and+building+fun+experiments+on+FiveM+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7733FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Renato;I'm+19+years+old;I'm+from+Brazil;I+Love+writing+Development;Lua+and+building+fun+experiments+on+FiveM+:%29)](https://git.io/typing-svg)
 
 <p align="center">Hello, I'm Renato.</p>
 
@@ -24,3 +24,5 @@ I'm a self-taught passionate BackEnd developer from Brazil
 
 | <a href="https://github.com/Renato-Arcade/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Renato-Arcade&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Renato-Arcade/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Arcade&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7733FF&height=120&section=footer"/>
