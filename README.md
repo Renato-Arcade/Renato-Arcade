@@ -25,6 +25,12 @@ I'm a self-taught passionate BackEnd developer from Brazil
 <code><img height="40" alt="svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png"></code>
     <code><img height="40" alt="html5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
     <code><img height="40" alt="css3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png"></code>
+    <br><br>
+    <div align="center">
+        <br><p align="centre"><b>Visitors Count</b></p>  
+        <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renato-Arcade}/count.svg" /></p> 
+        <br>
+    </div>
 </div>
 
 
