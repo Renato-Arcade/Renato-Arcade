@@ -14,7 +14,7 @@
     <img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     <img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
     <img height="40" alt="lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png">
-    <img height="40" alt="mysql" src="https://cdn.discordapp.com/attachments/1205902511781974136/1247239807235657778/mysql-logo.png?ex=665f4e16&is=665dfc96&hm=ca7ef2175bb17632f9d034c520a6dd98ee81218bdafdeba4ef3ba14497a94412&"><br><br>
+    <img height="40" alt="mysql" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png"><br><br>
     <b>Studying in this moment:<b><br><br>
     <img height="40" alt="svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png">
     <img height="40" alt="html5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
